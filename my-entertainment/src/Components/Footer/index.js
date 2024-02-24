@@ -55,7 +55,7 @@ const FooterComponent = ()=>{
                         </Col>
                         <Col className='col-12'>
                             <div className="footerCopyright">
-                                <small>©my Entertainment Develop  , 2022. <a href="https://www.youtube.com/c/AzadMalikRohit" target="_blank" rel="noreferrer"></a>.</small>
+                                <small>©my Entertainment devlop by Prabhu Prasad jena, AkanKshya Abhilipsa Panda, Soumyashree pati , laxmi narayan sahoo .. 2024.. <a href="https://www.youtube.com/c/AzadMalikRohit" target="_blank" rel="noreferrer"></a>.</small>
                             </div>
                         </Col>
                    </Row>
